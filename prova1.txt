@@ -1,7 +1,4 @@
 ciao sono giuseppe 
-<<<<<<< HEAD
-
-siamo della ex 15 
-=======
 ciao sono Mattia
->>>>>>> 0b88d58cc04a563a29da4a0e5019dc73ef81bcc0
+siamo della ex 15 
+
